@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>Su título va aquí</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="FFFFFF">
+
+<CENTER><IMG SRC="nubes.jpg" ALIGN="BOTTOM"> </CENTER>
+
+<HR>
+
+<a href="http://algunsitiowebestupendo.com">Nombre del vínculo </a>
+
+es un vínculo a otro buen sitio web
+
+<H1>Esto es un encabezado</H1>
+
+<H2>Este es un encabezado mediano</H2>
+
+Envíen el correo a <a href="mailto:soporte@suempresa.com">
+
+soporte@suempresa.com</a>.
+
+<P> ¡Este es un nuevo párrafo!
+
+<P> <B>¡Este es un nuevo párrafo!</B>
+
+<BR> <B><I>Esta es una nueva oración sin salto de párrafo, en cursiva negrita.</I></B>
+
+<HR>
+
+</BODY>
+
+</HTML>
